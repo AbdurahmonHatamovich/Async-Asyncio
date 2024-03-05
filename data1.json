@@ -1,0 +1,25 @@
+{
+  "courses":
+          [
+            {
+              "name": "python",
+              "price": 45
+            },
+
+
+            {
+              "name": "c#",
+              "price": 34
+            },
+            {
+              "name": "C++",
+              "price": 25
+            },
+
+            {
+              "name": "java",
+              "price": 50
+            }
+          ]
+
+}
